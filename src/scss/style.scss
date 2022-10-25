@@ -1,0 +1,18 @@
+@import "fonts";
+
+
+body{
+    background-color: rgb(21, 174, 197);
+}
+
+@media (max-width: 768px){
+    span {
+        font-size: 48px;
+    }
+}
+
+@media (max-width: 768px){
+    body{
+        background-color: rgb(241, 92, 12);
+    }
+}
